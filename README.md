@@ -2,7 +2,7 @@
 ---
 I'm Vamper, ZJU 2023
 
-🌱 I’m currently interested in RL & Optimal Control
+🌱 I’m currently interested in RL & AI Infra & Optimal Control
 
 🌐 I share my learning experience & notes & project
 
